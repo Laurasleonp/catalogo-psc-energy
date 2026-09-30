@@ -26,3 +26,15 @@ iPHONE / iPAD
 
 ONLINE
 Cualquier visitante puede abrir la misma URL o escanear un QR sin instalar nada.
+
+
+ACTUALIZACIÓN 2026-09-30
+- Se reemplazaron las 10 páginas por el Brochure PSC final.
+- Se conserva la navegación interactiva y la misma URL de GitHub Pages.
+- Caché PWA actualizado a v3 para que los dispositivos instalados reciban la nueva versión.
+
+PARA ACTUALIZAR GITHUB
+1. En el repositorio catalogo-psc-energy, cargar/reemplazar index.html, service-worker.js y la carpeta assets (page-01.png a page-10.png).
+2. Mantener manifest.json e iconos.
+3. Hacer Commit changes.
+4. Abrir el catálogo con internet y recargar una vez. En dispositivos instalados, abrir con internet para recibir la actualización antes de volver a modo offline.
